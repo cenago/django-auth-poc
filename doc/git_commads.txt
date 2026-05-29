@@ -33,3 +33,6 @@ git restore <file>                  # discard unstaged changes
 git reset HEAD <file>               # unstage a file
 git revert <commit-hash>            # undo a commit safely
 git reset --hard <commit-hash>      # ⚠️ destructive reset
+
+
+# Adding comment
